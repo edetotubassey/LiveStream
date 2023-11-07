@@ -1,2 +1,0 @@
-# LiveStream
-Dayholi LiveStream App
